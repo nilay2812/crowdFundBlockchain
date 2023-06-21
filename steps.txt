@@ -1,0 +1,17 @@
+npx thirdweb@latest create --contract
+hardhat
+
+npm install dotenv
+
+
+//After contract is made
+npm run deploy
+
+//After this click on the mentioned thirdweb link and complete the steps
+
+
+//Make react app
+npx thirdweb create --app
+
+
+npm install react-router-dom
